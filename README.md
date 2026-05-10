@@ -62,3 +62,5 @@ Author: Owais Khan
 ⭐ If you found this project helpful or inspiring, don’t forget to star the repo!
 
 Thanks for checking out this project!
+
+<!-- doc improvements -->
